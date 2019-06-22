@@ -14,6 +14,7 @@
 		7016D23822B811B80002B3FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7016D23622B811B80002B3FE /* LaunchScreen.storyboard */; };
 		704FF39B22BE1A990069FDEB /* NoteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704FF39A22BE1A990069FDEB /* NoteTests.swift */; };
 		704FF39F22BE21F50069FDEB /* NoteExtensionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704FF39E22BE21F50069FDEB /* NoteExtensionsTests.swift */; };
+		704FF3A122BE258D0069FDEB /* FileNotebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704FF3A022BE258D0069FDEB /* FileNotebookTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		704FF39A22BE1A990069FDEB /* NoteTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteTests.swift; sourceTree = "<group>"; };
 		704FF39D22BE21C90069FDEB /* tasks */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tasks; sourceTree = "<group>"; };
 		704FF39E22BE21F50069FDEB /* NoteExtensionsTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteExtensionsTests.swift; sourceTree = "<group>"; };
+		704FF3A022BE258D0069FDEB /* FileNotebookTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileNotebookTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			children = (
 				704FF39A22BE1A990069FDEB /* NoteTests.swift */,
 				704FF39E22BE21F50069FDEB /* NoteExtensionsTests.swift */,
+				704FF3A022BE258D0069FDEB /* FileNotebookTests.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				704FF3A122BE258D0069FDEB /* FileNotebookTests.swift in Sources */,
 				704FF39B22BE1A990069FDEB /* NoteTests.swift in Sources */,
 				704FF39F22BE21F50069FDEB /* NoteExtensionsTests.swift in Sources */,
 			);
