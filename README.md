@@ -12,3 +12,4 @@
 4. [Создаём проект и настраиваем сборку](tasks/Project.md)
 5. [Добавляем launch screen и иконку](tasks/launch_screen.md)
 6. [Создаём дополнительную конфигурацию сборки](tasks/config.md)
+7. [Анализируем код](tasks/Profiler.md)
