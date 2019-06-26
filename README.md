@@ -13,3 +13,4 @@
 5. [Добавляем launch screen и иконку](tasks/launch_screen.md)
 6. [Создаём дополнительную конфигурацию сборки](tasks/config.md)
 7. [Анализируем код](tasks/Profiler.md)
+8. [Добавляем внешнюю библиотеку](tasks/Cocoapods.md)
