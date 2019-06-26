@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import Note
+@testable import Notes
 
 class FileNotebookTests: XCTestCase {
 
@@ -180,6 +180,14 @@ class FileNotebookTests: XCTestCase {
         
         XCTAssertEqual(checkedDate2, date2)
 
+    }
+    
+    func testFileNotebook_whenRestoreFromEmptyFile_withoutException() {
+        let fn = FileNotebook(filename: "empty_file")
+        
+        fn.restoreFromFile()
+        
+        XCTAssertTrue(fn.notes.isEmpty)
     }
 
 
