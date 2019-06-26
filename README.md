@@ -10,3 +10,4 @@
 2. [Note, json extension](tasks/NoteExtensions.md)
 3. [FileNotebook](tasks/FileNotebook.md)
 4. [Создаём проект и настраиваем сборку](tasks/Project.md)
+5. [Добавляем launch screen и иконку](tasks/launch_screen.md)
