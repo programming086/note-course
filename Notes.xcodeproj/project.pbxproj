@@ -23,12 +23,12 @@
 			containerPortal = 7016D22222B811B60002B3FE /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7016D22922B811B60002B3FE;
-			remoteInfo = Note;
+			remoteInfo = Notes;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7016D22A22B811B60002B3FE /* Note.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Note.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7016D22A22B811B60002B3FE /* Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Notes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7016D22D22B811B60002B3FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7016D22F22B811B60002B3FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7016D23222B811B60002B3FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -67,8 +67,8 @@
 			children = (
 				704FF38822BE18F90069FDEB /* README.md */,
 				704FF39D22BE21C90069FDEB /* tasks */,
-				7016D22C22B811B60002B3FE /* Note */,
-				704FF38F22BE19640069FDEB /* NoteTests */,
+				7016D22C22B811B60002B3FE /* Notes */,
+				704FF38F22BE19640069FDEB /* NotesTests */,
 				7016D22B22B811B60002B3FE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -76,13 +76,13 @@
 		7016D22B22B811B60002B3FE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7016D22A22B811B60002B3FE /* Note.app */,
-				704FF38E22BE19630069FDEB /* NoteTests.xctest */,
+				7016D22A22B811B60002B3FE /* Notes.app */,
+				704FF38E22BE19630069FDEB /* NotesTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7016D22C22B811B60002B3FE /* Note */ = {
+		7016D22C22B811B60002B3FE /* Notes */ = {
 			isa = PBXGroup;
 			children = (
 				7016D22D22B811B60002B3FE /* AppDelegate.swift */,
@@ -92,16 +92,16 @@
 				7016D23622B811B80002B3FE /* LaunchScreen.storyboard */,
 				7016D23922B811B80002B3FE /* Info.plist */,
 			);
-			path = Note;
+			path = Notes;
 			sourceTree = "<group>";
 		};
-		704FF38F22BE19640069FDEB /* NoteTests */ = {
+		704FF38F22BE19640069FDEB /* NotesTests */ = {
 			isa = PBXGroup;
 			children = (
 				704FF39822BE1A990069FDEB /* Cases */,
 				704FF39222BE19640069FDEB /* Info.plist */,
 			);
-			path = NoteTests;
+			path = NotesTests;
 			sourceTree = "<group>";
 		};
 		704FF39822BE1A990069FDEB /* Cases */ = {
@@ -125,9 +125,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7016D22922B811B60002B3FE /* Note */ = {
+		7016D22922B811B60002B3FE /* Notes */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7016D23C22B811B80002B3FE /* Build configuration list for PBXNativeTarget "Note" */;
+			buildConfigurationList = 7016D23C22B811B80002B3FE /* Build configuration list for PBXNativeTarget "Notes" */;
 			buildPhases = (
 				7016D22622B811B60002B3FE /* Sources */,
 				7016D22722B811B60002B3FE /* Frameworks */,
@@ -137,14 +137,14 @@
 			);
 			dependencies = (
 			);
-			name = Note;
-			productName = Note;
-			productReference = 7016D22A22B811B60002B3FE /* Note.app */;
+			name = Notes;
+			productName = Notes;
+			productReference = 7016D22A22B811B60002B3FE /* Notes.app */;
 			productType = "com.apple.product-type.application";
 		};
-		704FF38D22BE19630069FDEB /* NoteTests */ = {
+		704FF38D22BE19630069FDEB /* NotesTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 704FF39522BE19640069FDEB /* Build configuration list for PBXNativeTarget "NoteTests" */;
+			buildConfigurationList = 704FF39522BE19640069FDEB /* Build configuration list for PBXNativeTarget "NotesTests" */;
 			buildPhases = (
 				704FF38A22BE19630069FDEB /* Sources */,
 				704FF38B22BE19630069FDEB /* Frameworks */,
@@ -155,9 +155,9 @@
 			dependencies = (
 				704FF39422BE19640069FDEB /* PBXTargetDependency */,
 			);
-			name = NoteTests;
-			productName = NoteTests;
-			productReference = 704FF38E22BE19630069FDEB /* NoteTests.xctest */;
+			name = NotesTests;
+			productName = NotesTests;
+			productReference = 704FF38E22BE19630069FDEB /* NotesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -179,7 +179,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7016D22522B811B60002B3FE /* Build configuration list for PBXProject "Note" */;
+			buildConfigurationList = 7016D22522B811B60002B3FE /* Build configuration list for PBXProject "Notes" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -192,8 +192,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7016D22922B811B60002B3FE /* Note */,
-				704FF38D22BE19630069FDEB /* NoteTests */,
+				7016D22922B811B60002B3FE /* Notes */,
+				704FF38D22BE19630069FDEB /* NotesTests */,
 			);
 		};
 /* End PBXProject section */
@@ -243,7 +243,7 @@
 /* Begin PBXTargetDependency section */
 		704FF39422BE19640069FDEB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7016D22922B811B60002B3FE /* Note */;
+			target = 7016D22922B811B60002B3FE /* Notes */;
 			targetProxy = 704FF39322BE19640069FDEB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -389,12 +389,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Note/Info.plist;
+				INFOPLIST_FILE = Notes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.Note;
+				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.Notes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -406,12 +406,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Note/Info.plist;
+				INFOPLIST_FILE = Notes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.Note;
+				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.Notes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -421,45 +421,47 @@
 		704FF39622BE19640069FDEB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = NoteTests/Info.plist;
+				INFOPLIST_FILE = NotesTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.NoteTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.NotesTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Note.app/Note";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Notes.app/Notes";
 			};
 			name = Debug;
 		};
 		704FF39722BE19640069FDEB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = NoteTests/Info.plist;
+				INFOPLIST_FILE = NotesTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.NoteTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.blogspot.programming086.NotesTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Note.app/Note";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Notes.app/Notes";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7016D22522B811B60002B3FE /* Build configuration list for PBXProject "Note" */ = {
+		7016D22522B811B60002B3FE /* Build configuration list for PBXProject "Notes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7016D23A22B811B80002B3FE /* Debug */,
@@ -468,7 +470,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7016D23C22B811B80002B3FE /* Build configuration list for PBXNativeTarget "Note" */ = {
+		7016D23C22B811B80002B3FE /* Build configuration list for PBXNativeTarget "Notes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7016D23D22B811B80002B3FE /* Debug */,
@@ -477,7 +479,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		704FF39522BE19640069FDEB /* Build configuration list for PBXNativeTarget "NoteTests" */ = {
+		704FF39522BE19640069FDEB /* Build configuration list for PBXNativeTarget "NotesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				704FF39622BE19640069FDEB /* Debug */,
