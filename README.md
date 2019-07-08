@@ -16,3 +16,5 @@
 7. [Анализируем код](tasks/Profiler.md)
 8. [Добавляем внешнюю библиотеку](tasks/Cocoapods.md)
 9. [Экран редактирования](tasks/edit_screen.md)
+10. [Приложение «Приветствие»](tasks/hello.md)
+11. [Список заметок](tasks/notes_list.md)
