@@ -1,6 +1,6 @@
 ## Task #10.3 - Приложение "Приветствие"
 
-В ![предыдущей задаче](hello-2.md): Present/Dismiss замените на UINavigationController и методы Push/Pop.
+[В предыдущей задаче](hello-2.md): Present/Dismiss замените на UINavigationController и методы Push/Pop.
 
 **Примеры экранов**
 
