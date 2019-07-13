@@ -22,5 +22,7 @@
     * [Этап #1](tasks/hello-1.md)
     * [Этап #2](tasks/hello-2.md)
     * [Этап #3](tasks/hello-3.md)
-    * [Этап #4](tasks/hello.md)
+    * [Этап #4](tasks/hello-4.md)
+    * [Этап #5](tasks/hello-5.md)
+    * [Этап #6](tasks/hello-6.md)
 11. [Список заметок](tasks/notes_list.md)
