@@ -1,9 +1,10 @@
 # [Курс «Разработка под iOS. Начинаем»](https://stepik.org/52478)
 
 ## Конспект
-1. [Swift как язык программирования](conspectus/Swift_как_язык_программирования_конспект.pdf)
+1. [Swift как язык программирования](conspectus/iOS_C1_M1.pdf)
 2. [Обзор архитектуры](conspectus/iOS_C1_M2.pdf)
 3. [View](conspectus/iOS_C1_M3.pdf)
+4. [View](conspectus/iOS_C1_M4.pdf)
 
 
 ## Задания
