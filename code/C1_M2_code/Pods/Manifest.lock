@@ -1,0 +1,16 @@
+PODS:
+  - CorePlot (2.2)
+
+DEPENDENCIES:
+  - CorePlot (~> 2.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CorePlot
+
+SPEC CHECKSUMS:
+  CorePlot: cbe0c6e14220705e32e06a89c7d6a5a908b7d7d8
+
+PODFILE CHECKSUM: 97c73f00dfffa3d5449e939c04e2d9bd2b9811b0
+
+COCOAPODS: 1.6.1
