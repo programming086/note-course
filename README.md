@@ -1,4 +1,5 @@
 # [Курс «Разработка под iOS. Начинаем»](https://stepik.org/52478)
+# [Курс «Разработка под iOS. Взлетаем»](https://stepik.org/53561)
 
 ## Конспект
 1. [Swift как язык программирования](conspectus/iOS_C1_M1.pdf) [code](code/C1_M1_code)
@@ -26,3 +27,4 @@
     * [Этап #5](tasks/hello-5.md)
     * [Этап #6](tasks/hello-6.md)
 11. [Список заметок](tasks/notes_list.md)
+12. [Создаём операции](tasks/operations.md)
