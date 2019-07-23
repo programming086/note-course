@@ -6,7 +6,7 @@
 2. [Обзор архитектуры](conspectus/iOS_C1_M2.pdf)[code](code/C1_M2_code)
 3. [View](conspectus/iOS_C1_M3.pdf) [code](code/C1_M3_code)
 4. [View Controllers](conspectus/iOS_C1_M4.pdf) [code](code/C1_M4_code)
-
+5. [Многопоточность](conspectus/iOS_C2_M1.pdf)
 
 ## Задания
 1. [Note](tasks/Note.md)
