@@ -29,7 +29,10 @@
     * [Этап #6](tasks/hello-6.md)
 11. [Список заметок](tasks/notes_list.md)
 12. [Создаём операции](tasks/operations.md)
-13. Приложение GitHub. [Протокол Decodable на практике](tasks/Decodable.md)
+13. Приложение GitHub. 
+    * [Протокол Decodable на практике](tasks/Decodable.md)
+    * [Получение своих файлов с gitbub](tasks/github_gist.md)
+    * [Выполнение POST запроса](tasks/post.md)
 
 
 ### P. S. Оригинальные финальные исправленные задания курса
