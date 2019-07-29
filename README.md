@@ -2,11 +2,12 @@
 # [Курс «Разработка под iOS. Взлетаем»](https://stepik.org/53561)
 
 ## Конспект
-1. [Swift как язык программирования](conspectus/iOS_C1_M1.pdf) [code](code/C1_M1_code)
-2. [Обзор архитектуры](conspectus/iOS_C1_M2.pdf)[code](code/C1_M2_code)
-3. [View](conspectus/iOS_C1_M3.pdf) [code](code/C1_M3_code)
-4. [View Controllers](conspectus/iOS_C1_M4.pdf) [code](code/C1_M4_code)
+1. [Swift как язык программирования](conspectus/iOS_C1_M1.pdf) ([code](code/C1_M1_code))
+2. [Обзор архитектуры](conspectus/iOS_C1_M2.pdf) ([code](code/C1_M2_code))
+3. [View](conspectus/iOS_C1_M3.pdf) ([code](code/C1_M3_code))
+4. [View Controllers](conspectus/iOS_C1_M4.pdf) ([code](code/C1_M4_code))
 5. [Многопоточность](conspectus/iOS_C2_M1.pdf)
+6. Работа с сетью ([code](code/C2_M2_code))
 
 ## Задания
 1. [Note](tasks/Note.md)
@@ -28,6 +29,7 @@
     * [Этап #6](tasks/hello-6.md)
 11. [Список заметок](tasks/notes_list.md)
 12. [Создаём операции](tasks/operations.md)
+13. [Создаём операции](tasks/operations.md)
 
 ### P. S. Оригинальные финальные исправленные задания курса
 * [Разработка под iOS. Начинаем (pdf)](tasks/Задания_курса_1.pdf)
