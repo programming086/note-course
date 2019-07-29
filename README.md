@@ -29,7 +29,8 @@
     * [Этап #6](tasks/hello-6.md)
 11. [Список заметок](tasks/notes_list.md)
 12. [Создаём операции](tasks/operations.md)
-13. [Создаём операции](tasks/operations.md)
+13. Приложение GitHub. [Протокол Decodable на практике](tasks/Decodable.md)
+
 
 ### P. S. Оригинальные финальные исправленные задания курса
 * [Разработка под iOS. Начинаем (pdf)](tasks/Задания_курса_1.pdf)
