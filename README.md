@@ -33,6 +33,7 @@
     * [Протокол Decodable на практике](tasks/Decodable.md)
     * [Получение своих файлов с gitbub](tasks/github_gist.md)
     * [Выполнение POST запроса](tasks/post.md)
+14. [Работа с API github gists](tasks/github_API.md)
 
 
 ### P. S. Оригинальные финальные исправленные задания курса
