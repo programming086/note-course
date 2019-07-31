@@ -31,7 +31,7 @@
 12. [Создаём операции](tasks/operations.md)
 13. Приложение GitHub. 
     * [Протокол Decodable на практике](tasks/Decodable.md)
-    * [Получение своих файлов с gitbub](tasks/github_gist.md)
+    * [Получение своих файлов с github](tasks/github_gist.md)
     * [Выполнение POST запроса](tasks/post.md)
 
 
