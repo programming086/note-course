@@ -104,7 +104,7 @@ class NoteExtensionsTests: XCTestCase {
                 return
         }
         
-        XCTAssertEqual(originDate, date)
+        XCTAssertEqual(originDate.timeIntervalSinceReferenceDate, date.timeIntervalSinceReferenceDate, accuracy: 0.0001)
     }
 
     
