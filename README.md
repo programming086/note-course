@@ -7,7 +7,7 @@
 3. [View](conspectus/iOS_C1_M3.pdf) ([code](code/C1_M3_code))
 4. [View Controllers](conspectus/iOS_C1_M4.pdf) ([code](code/C1_M4_code))
 5. [Многопоточность](conspectus/iOS_C2_M1.pdf)
-6. Работа с сетью ([code](code/C2_M2_code))
+6. [Работа с сетью](conspectus/iOS_C2_M2.pdf) ([code](code/C2_M2_code))
 
 ## Задания
 1. [Note](tasks/Note.md)
