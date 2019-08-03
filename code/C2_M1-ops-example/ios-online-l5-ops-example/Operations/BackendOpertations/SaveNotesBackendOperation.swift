@@ -13,10 +13,12 @@ class SaveNotesBackendOperation: BaseBackendOperation {
     var result: SaveNotesBackendResult?
     
     init(notes: [Note]) {
+        log("")
         super.init()
     }
     
     override func main() {
+        log("")
         result = .failure(.unreachable)
         finish()
     }
