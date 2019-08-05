@@ -34,6 +34,7 @@
     * [Получение своих файлов с github](tasks/github_gist.md)
     * [Выполнение POST запроса](tasks/post.md)
 14. [Работа с API github gists](tasks/github_API.md)
+15. [Приложение для спортсменов](tasks/sport_application.md)
 
 
 ### P. S. Оригинальные финальные исправленные задания курса
