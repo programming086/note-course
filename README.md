@@ -8,6 +8,7 @@
 4. [View Controllers](conspectus/iOS_C1_M4.pdf) ([code](code/C1_M4_code))
 5. [Многопоточность](conspectus/iOS_C2_M1.pdf)
 6. [Работа с сетью](conspectus/iOS_C2_M2.pdf) ([code](code/C2_M2_code))
+7. Работа с базой данных (code)
 
 ## Задания
 1. [Note](tasks/Note.md)
@@ -35,6 +36,7 @@
     * [Выполнение POST запроса](tasks/post.md)
 14. [Работа с API github gists](tasks/github_API.md)
 15. [Приложение для спортсменов](tasks/sport_application.md)
+16. [Локальное хранение в Core Data](tasks/CoreData.md)
 
 
 ### P. S. Оригинальные финальные исправленные задания курса
