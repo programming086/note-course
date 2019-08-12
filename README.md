@@ -38,9 +38,7 @@
 14. [Работа с API github gists](tasks/github_API.md)
 15. [Приложение для спортсменов](tasks/sport_application.md)
 16. [Локальное хранение в Core Data](tasks/CoreData.md)
-
-Bonus
-17. Архитектуры
+17. Архитектуры (Bonus)
     * [Классическая iOS архитектура](tasks/ImproveArchitecture.md)
     * [MVP](tasks/MVP.md)
     * [MVVM](tasks/MVVM.md)
