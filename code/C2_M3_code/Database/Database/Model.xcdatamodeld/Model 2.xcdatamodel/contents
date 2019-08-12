@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14492.1" systemVersion="18G87" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Employee" representedClassName="Employee" parentEntity="Person" syncable="YES" codeGenerationType="class">
+        <attribute name="position" attributeType="String" syncable="YES"/>
+        <attribute name="salary" attributeType="Double" minValueString="100" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="department" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Organization" inverseName="employees" inverseEntity="Organization" syncable="YES"/>
+    </entity>
+    <entity name="Organization" representedClassName="Organization" syncable="YES" codeGenerationType="class">
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <relationship name="employees" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Employee" inverseName="department" inverseEntity="Employee" syncable="YES"/>
+    </entity>
+    <entity name="Person" representedClassName="Person" syncable="YES" codeGenerationType="class">
+        <attribute name="birthDate" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lastName" attributeType="String" syncable="YES"/>
+        <attribute name="name" attributeType="String" minValueString="1" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Employee" positionX="-18" positionY="54" width="128" height="90"/>
+        <element name="Organization" positionX="9" positionY="72" width="128" height="75"/>
+        <element name="Person" positionX="-45" positionY="0" width="128" height="90"/>
+    </elements>
+</model>
