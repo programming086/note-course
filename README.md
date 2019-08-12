@@ -11,11 +11,8 @@
     * «Concurrency в Swift 3 и 4. Operation и OperationQueue». [Статья на Хабр](https://habr.com/ru/post/335756/)
     * Видео доклада с WWDC «Advanced NSOperations» на [developer.apple.com](https://developer.apple.com/videos/play/wwdc2015/226/) (eng)
 6. [Работа с сетью](conspectus/iOS_C2_M2.pdf) ([code](code/C2_M2_code))
-7. [Работа с базой данных](conspectus/iOS_C2_M3.pdf) (code)
+7. [Работа с базой данных](conspectus/iOS_C2_M3.pdf) ([code](code/C2_M3_code))
 8. [Работа с архитектурой](conspectus/iOS_C2_M4.pdf)
-
-## Дополнительные материалы
-
 
 ## Задания
 1. [Note](tasks/Note.md)
