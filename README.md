@@ -9,6 +9,7 @@
 5. [Многопоточность](conspectus/iOS_C2_M1.pdf)
 6. [Работа с сетью](conspectus/iOS_C2_M2.pdf) ([code](code/C2_M2_code))
 7. [Работа с базой данных](conspectus/iOS_C2_M3.pdf) (code)
+8. [Работа с архитектурой](conspectus/iOS_C2_M4.pdf)
 
 ## Задания
 1. [Note](tasks/Note.md)
