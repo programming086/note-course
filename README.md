@@ -7,9 +7,15 @@
 3. [View](conspectus/iOS_C1_M3.pdf) ([code](code/C1_M3_code))
 4. [View Controllers](conspectus/iOS_C1_M4.pdf) ([code](code/C1_M4_code))
 5. [Многопоточность](conspectus/iOS_C2_M1.pdf)
+    * «Многопоточность (concurrency) в Swift 3. GCD и Dispatch Queues». [Статья на Хабр](https://habr.com/ru/post/320152/)
+    * «Concurrency в Swift 3 и 4. Operation и OperationQueue». [Статья на Хабр](https://habr.com/ru/post/335756/)
+    * Видео доклада с WWDC «Advanced NSOperations» на [developer.apple.com](https://developer.apple.com/videos/play/wwdc2015/226/) (eng)
 6. [Работа с сетью](conspectus/iOS_C2_M2.pdf) ([code](code/C2_M2_code))
 7. [Работа с базой данных](conspectus/iOS_C2_M3.pdf) (code)
 8. [Работа с архитектурой](conspectus/iOS_C2_M4.pdf)
+
+## Дополнительные материалы
+
 
 ## Задания
 1. [Note](tasks/Note.md)
