@@ -39,6 +39,14 @@
 15. [Приложение для спортсменов](tasks/sport_application.md)
 16. [Локальное хранение в Core Data](tasks/CoreData.md)
 
+Bonus
+17. Архитектуры
+    * [Классическая iOS архитектура](tasks/ImproveArchitecture.md)
+    * [MVP](tasks/MVP.md)
+    * [MVVM](tasks/MVVM.md)
+    * [Координаторы](tasks/coordinators.md)
+    * [SOLID](tasks/SOLID.md)
+    * [VIPER](tasks/VIPER.md)
 
 ### P. S. Оригинальные финальные исправленные задания курса
 * [Разработка под iOS. Начинаем (pdf)](tasks/Задания_курса_1.pdf)
